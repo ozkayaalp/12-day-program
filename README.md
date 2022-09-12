@@ -1,6 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)
-
-https://mybinder.org/v2/gh/ozkayaalp/12-day-program.git/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)(https://mybinder.org/v2/gh/ozkayaalp/12-day-program.git/HEAD)
 
 # 12 day program "Milestone project" (Day-4 & Day-5 action items)
 
