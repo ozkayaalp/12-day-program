@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/ozkayaalp-12-day-program-c7eup71b/lab)
+[![Binder](https://mybinder.org/badge_logo.svg)] (https://notebooks.gesis.org/binder/jupyter/user/ozkayaalp-12-day-program-c7eup71b/lab)
 
 # 12 day program "Milestone project" (Day-4 & Day-5 action items)
 
